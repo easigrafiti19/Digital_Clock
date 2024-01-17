@@ -1,0 +1,23 @@
+#container {
+    min-height: 800px;
+    position: relative;
+    
+}
+
+#clock {
+    text-align: center;
+    font-size: 72px;
+    color: #050202;
+    min-width: 380px;
+    padding: 10px;
+    border-radius: 10px;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: linear-gradient(135deg, #14ffe9, #ffeb3b, #ff00e0);
+}
+
+h4 {
+    text-align: center;
+};
